@@ -11,8 +11,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  margin-top: 60px;
 }
 
 .konteineri {
@@ -21,6 +19,7 @@ body {
   border-radius: 10px;
   background: #e1e1e1;
   box-shadow: 0px 8px 20px #afafaf;
+  margin-top: 110px;
 }
 
 .teqstip {

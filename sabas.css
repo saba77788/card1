@@ -11,8 +11,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  margin-top: 60px;
 }
 
 .varianti1 {
@@ -22,6 +20,7 @@ body {
   width: 350px;
   height: 596px;
   flex-shrink: 0;
+  margin-top: 110px;
 }
 
 img {
@@ -61,7 +60,7 @@ img {
 button {
   padding: 10px;
   border-radius: 20px;
-  background-color: 778da9;
+  background-color: #778da9;
 }
 
 a {
