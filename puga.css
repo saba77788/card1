@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  margin-top: 60px;
 }
 
 .konteineri {
@@ -60,7 +61,18 @@ hr {
 
 .meniu {
   position: absolute;
-  top: 50px;
+  top: 40px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: 778da9;
+}
+
+a {
+  color: black;
+  text-decoration: none;
 }
 
 /* p{
